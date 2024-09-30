@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ul{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  background-color:red;
+  color:pink;
+}
+
+body {
+  background-color: aqua;
+  
+}
+
+.contaner{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.intro {
+  width: 90%;
+}
+
+.profilePic{
+  margin-right: 200px;
+  margin-top: 100px;
+  border-radius: 50%;
+  
+  
+}
+
+.intro{
+  margin-left: 150px;
+  margin-top: 100px;
+}
+
+
