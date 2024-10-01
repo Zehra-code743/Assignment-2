@@ -12,7 +12,7 @@ ul{
 }
 
 body {
-  background-color: aqua;
+  background-color: pink;
   
 }
 
@@ -26,15 +26,28 @@ body {
   width: 90%;
 }
 
+img{
+  margin-right:200px;
+  border-radius: 50%;
+  border:2px solid red;
+  height:300px;
+width: 300px;
+
+}
+
+
 .profilePic{
   margin-right: 200px;
   margin-top: 100px;
   border-radius: 50%;
   
   
+  
 }
 
 .intro{
+  font-size: 30px;
+  color:rgb(196,58,196);
   margin-left: 150px;
   margin-top: 100px;
 }
